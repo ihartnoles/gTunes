@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+  <testsuite errors="0" failures="1" hostname="BOC22DT-940181" id="0" name="SongTests" package="com.gtunes" tests="1" time="0.482" timestamp="2013-08-16T16:08:12">
+      <properties />
+
+      <testcase classname="com.gtunes.SongTests" name="testSomething" time="0.41">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.gtunes.SongTests.testSomething(SongTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="1" hostname="BOC22DT-940181" id="1" name="StoreTests" package="com.gtunes" tests="1" time="0.3" timestamp="2013-08-16T16:08:12">
+      <properties />
+
+      <testcase classname="com.gtunes.StoreTests" name="testSomething" time="0.062">
+          <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.gtunes.StoreTests.testSomething(StoreTests.groovy:15)
+</failure>
+
+      </testcase>
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+  <testsuite errors="0" failures="0" hostname="BOC22DT-940181" id="2" name="StoreControllerTests" package="gtunes" tests="1" time="0.755" timestamp="2013-08-16T16:08:13">
+      <properties />
+
+      <testcase classname="gtunes.StoreControllerTests" name="testSomething" time="0.751" />
+
+      <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+
+      <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+
+  </testsuite>
+</testsuites>

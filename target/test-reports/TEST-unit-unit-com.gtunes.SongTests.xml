@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="1" hostname="BOC22DT-940181" name="com.gtunes.SongTests" tests="1" time="0.482" timestamp="2013-08-16T16:08:12">
+  <properties />
+  <testcase classname="com.gtunes.SongTests" name="testSomething" time="0.41">
+    <failure message="junit.framework.AssertionFailedError: Implement me" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: junit.framework.AssertionFailedError: Implement me
+	at com.gtunes.SongTests.testSomething(SongTests.groovy:15)
+</failure>
+  </testcase>
+  <system-out><![CDATA[--Output from testSomething--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSomething--
+]]></system-err>
+</testsuite>
